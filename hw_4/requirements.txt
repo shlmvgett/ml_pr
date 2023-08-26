@@ -1,0 +1,4 @@
+requests==2.31.0
+fake_useragent==1.2.1
+bs4==0.0.1
+lxml==4.9.3
